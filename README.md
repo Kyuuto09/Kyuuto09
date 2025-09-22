@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there! I'm Volodymyr and i really enjoy creating robust react websites 👋
 
 <!--
 **Kyuuto09/Kyuuto09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
