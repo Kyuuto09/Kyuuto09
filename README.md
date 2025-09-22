@@ -1,5 +1,7 @@
 # Hi there👋 I'm Volodymyr and i really enjoy creating robust react websites 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuuto09)](https://github.com/kyuuto09/github-readme-stats)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kyuuto09&show_icons=true"/>
+
+<img alt="my languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuto09&layout=compact"/>
 <!--
 **Kyuuto09/Kyuuto09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
